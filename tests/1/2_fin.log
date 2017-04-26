@@ -1,0 +1,38 @@
+Join: joining address  127.0.0.1:8888
+Create: creating a chordnode
+Chord node fce61d52418316eabf16b2fa98d9099e5016ba3d353cdf9b1ac5788be344d4d6 is listening on 127.0.0.2:8888...
+
+
+
+
+Prev_pred :  127.0.0.1:8888
+ChordNode.Info: Printing Entire kayspace
+ChordNode repos : 
+[9 205 19 119 77 79 147 249 138 13 88 201 126 196 55 173 14 207 216 157 63 139 122 145 2 79 182 177 12 244 50 214]
+&{map[]}
+
+
+
+
+
+Prev_pred :  127.0.0.3:8888
+ChordNode.Info: Printing Entire kayspace
+ChordNode repos : 
+[9 205 19 119 77 79 147 249 138 13 88 201 126 196 55 173 14 207 216 157 63 139 122 145 2 79 182 177 12 244 50 214]
+&{map[]}
+[209 182 62 225 10 122 251 133 202 148 221 142 18 54 214 107 115 31 229 255 90 225 81 111 177 10 114 148 250 246 162 27]
+&{map[1:1]}
+
+
+
+
+
+Prev_pred :  127.0.0.3:8888
+ChordNode.Info: Printing Entire kayspace
+2 		 1
+ChordNode repos : 
+[9 205 19 119 77 79 147 249 138 13 88 201 126 196 55 173 14 207 216 157 63 139 122 145 2 79 182 177 12 244 50 214]
+&{map[]}
+[209 182 62 225 10 122 251 133 202 148 221 142 18 54 214 107 115 31 229 255 90 225 81 111 177 10 114 148 250 246 162 27]
+&{map[1:1]}
+Enter Command: 

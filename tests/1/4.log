@@ -1,0 +1,76 @@
+Join: joining address  127.0.0.3:8888
+Create: creating a chordnode
+Chord node c5691ee9039ab8b41ea62817965f366d708877d643c9224b7a0eab417608d8a8 is listening on 127.0.0.4:8888...
+Lookup called with start address: 127.0.0.3:8888
+127.0.0.3:8888  before send
+TcpServer function has been called to start tcp server.
+TCPAddress Successfully Resolved
+Listening on Socket 127.0.0.4:9000
+127.0.0.3:8888  after send
+here
+Lookup called with start address: 127.0.0.1:8888
+127.0.0.1:8888  before send
+127.0.0.1:8888  after send
+here
+Join: Lookup finished successfully
+Joined server: 127.0.0.3:8888
+I am 127.0.0.4:8888!
+Enter Command: here,  127.0.0.3:8888
+ChordNode.Update: Update called on  127.0.0.3:9000 length 14
+Update on  127.0.0.3:8888  finished
+Accepted  connection from :127.0.0.1:59813
+Connection Terminated
+our_rpc update function has been called with  lelo   127.0.0.3:8888
+our_rpc lelo table received map[1:1]
+
+ChordNode.Update: Update called on  127.0.0.3:9000 length 14
+Update on  127.0.0.3:8888  finished
+ChordNode.Update: Update called on  127.0.0.1:9000 length 14
+Update on  127.0.0.1:8888  finished
+here,  127.0.0.1:8888
+ChordNode.Update: Update called on  127.0.0.1:9000 length 14
+Update on  127.0.0.1:8888  finished
+Accepted  connection from :127.0.0.1:59820
+Connection Terminated
+our_rpc update function has been called with  update   127.0.0.1:8888
+>>>Notify called for addr %!(EXTRA string=127.0.0.1:8888)New node Added - nil
+nagaraju added
+sendTable:  map[] newtable : map[1:1]
+ChordNode.Lelo: Lelo called on  127.0.0.1:8888
+Accepted  connection from :127.0.0.1:59822
+Connection Terminated
+our_rpc update function has been called with  update   127.0.0.1:8888
+ChordNode.Lelo: our_rpc_lelo succeeded
+Lelo on  127.0.0.1:8888  finished
+ChordNode.Update: Update called on  127.0.0.3:9000 length 14
+Update on  127.0.0.3:8888  finished
+ChordNode.Update: Update called on  127.0.0.1:9000 length 14
+Update on  127.0.0.1:8888  finished
+*******************b4 exiting 127.0.0.1:8888
+Accepted  connection from :127.0.0.1:59826
+Connection Terminated
+our_rpc update function has been called with  update   127.0.0.3:8888
+Prev_pred :  127.0.0.1:8888
+ChordNode.Info: Printing Entire kayspace
+1 		 1
+ChordNode repos : 
+[9 205 19 119 77 79 147 249 138 13 88 201 126 196 55 173 14 207 216 157 63 139 122 145 2 79 182 177 12 244 50 214]
+&{map[]}
+[209 182 62 225 10 122 251 133 202 148 221 142 18 54 214 107 115 31 229 255 90 225 81 111 177 10 114 148 250 246 162 27]
+&{map[]}
+Enter Command: Successor died
+Accepted  connection from :127.0.0.1:59859
+Connection Terminated
+our_rpc update function has been called with  delete   127.0.0.1:8888
+Deleting address of  127.0.0.1:8888   [209 182 62 225 10 122 251 133 202 148 221 142 18 54 214 107 115 31 229 255 90 225 81 111 177 10 114 148 250 246 162 27]
+Akash garg check  <nil>
+Accepted  connection from :127.0.0.1:59862
+Connection Terminated
+our_rpc update function has been called with  update   127.0.0.1:8888
+Prev_pred :  127.0.0.1:8888
+ChordNode.Info: Printing Entire kayspace
+1 		 1
+ChordNode repos : 
+[9 205 19 119 77 79 147 249 138 13 88 201 126 196 55 173 14 207 216 157 63 139 122 145 2 79 182 177 12 244 50 214]
+&{map[]}
+Enter Command: ChordNode.Delete: Delete called on  127.0.0.3:8888
